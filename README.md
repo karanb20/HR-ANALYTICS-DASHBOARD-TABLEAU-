@@ -49,3 +49,7 @@ DASHBOARD CONTENT:
 
 7th Sheet: Education Field wise Attrition (Donut Plot)
 
+DASHBOARD:
+![image alt](https://github.com/karanb20/HR-ANALYTICS-DASHBOARD-TABLEAU-/blob/main/Screenshot%20(9).png?raw=true)
+
+
